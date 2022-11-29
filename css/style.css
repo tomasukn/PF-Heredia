@@ -241,3 +241,8 @@ nav {
     transform: translateX(0px);
   }
 }
+.video__publicacion {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
