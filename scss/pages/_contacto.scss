@@ -1,0 +1,21 @@
+input {
+  width: 98%;
+  padding: 6px;
+  margin: 10px 0;
+  border: 2px solid #ccc;
+  border-radius: 7px;
+}
+textarea {
+  resize: none;
+  width: 97%;
+  height: 200px;
+  padding: 10px 10px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+}
+label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}

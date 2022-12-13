@@ -1,0 +1,21 @@
+p {
+  text-align: center;
+  color: white;
+  cursor: default;
+  text-shadow: -2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+.titulos {
+  text-align: center;
+  cursor: default;
+  margin-bottom: 30px;
+  color: #ffffff;
+  text-shadow: -2px 2px 2px rgba(0, 0, 0, 0.5);
+  animation: animate__flipInX 1.5s ease;
+}
+.titulos__2 {
+  text-align: center;
+  color: white;
+  margin-bottom: 30px;
+  cursor: default;
+  text-shadow: -2px 2px 2px rgba(0, 0, 0, 0.5);
+}

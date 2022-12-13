@@ -1,0 +1,50 @@
+footer {
+  padding: 0rem 0;
+  text-align: center;
+  background-color: #dddddd;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+.footer-sm {
+  background-color: #212121;
+  color: white;
+  cursor: default;
+}
+.footer-sm a {
+  color: white;
+}
+.footer-sm a i {
+  font-size: 1rem;
+  margin-left: 1rem;
+}
+.footer-sm__redes {
+  text-align: center;
+  padding: 0.5rem 0;
+}
+.footer-bottom {
+  padding: 1.5rem 0;
+}
+.footer-bottom__contacto {
+  text-align: center;
+  color: gray;
+  font-weight: 400;
+  cursor: default;
+}
+.footer-bottom__contacto a {
+  color: gray;
+  text-decoration: none;
+}
+.footer-bottom__contacto a:hover {
+  color: white;
+  text-decoration: underline;
+}
+.tw:hover {
+  color: #55acee;
+}
+.ig:hover {
+  color: #e1306c;
+}
+.wp:hover {
+  color: #25d366;
+}
